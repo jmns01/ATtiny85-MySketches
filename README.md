@@ -13,4 +13,4 @@
 7. You can start by using the examples at **File > Examples > DigsparkUSB > DigiBlink**
 
 
-==If you are facing any problems you will be able to find help [here](https://github.com/digistump/DigistumpArduino)==
+If you are facing any problems you will be able to find help [here](https://github.com/digistump/DigistumpArduino)
