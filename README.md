@@ -1,6 +1,6 @@
 # ATtiny85-MySketches
 
-- This repo holds the series of Arduino sketches that I have done for fun. Feel free to experiment them.
+- This repo holds the series of Arduino sketches that I have done for fun. Feel free to experiment with them.
 
 ## How to set up a Digispark ATtiny85 for use
 
